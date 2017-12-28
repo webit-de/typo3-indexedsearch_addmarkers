@@ -1,6 +1,8 @@
 Indexed Search Add Markers
 ==========================
 
+:collision: **Abandoned - This repository is not maintained anymore!**
+
 With the help of this extension the administrator is able to add custom markers to EXT:indexed_search.
 
 This is necessary if a website has several languages, but the administrator want's to avoid having several templates just to localize some strings.
