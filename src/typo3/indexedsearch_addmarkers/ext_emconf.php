@@ -29,7 +29,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '0.0.1',
+	'version' => '0.1.0',
 	'constraints' => array(
 		'depends' => array(
 			'typo3' => '4.5.0-6.2.99',
@@ -39,9 +39,6 @@ $EM_CONF[$_EXTKEY] = array(
 		),
 		'suggests' => array(
 		),
-	),
-	'_md5_values_when_last_written' => 'a:6:{s:9:"ChangeLog";s:4:"8270";s:10:"README.txt";s:4:"ee2d";s:12:"ext_icon.gif";s:4:"cb15";s:17:"ext_localconf.php";s:4:"2cb5";s:14:"doc/readme.txt";s:4:"1834";s:89:"hooks/class.tx_indexedsearchaddmarkers_indexedsearch_prepareResultRowTemplateDataHook.php";s:4:"e77a";}',
-	'suggests' => array(
 	),
 );
 
