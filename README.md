@@ -7,6 +7,19 @@ This is necessary if a website has several languages, but the administrator want
 
 The current status of the extension is a very low alpha, it does not do very much yet. At this point of time it just adds custom markers to a row.
 
+Requirements
+------------
+
+* PHP
+* TYPO3
+
+Installation
+-------------
+
+TER Entry http://typo3.org/extensions/repository/view/indexedsearch_addmarkers/
+
+Packagist Entry https://packagist.org/packages/webit-de/indexedsearch-addmarkers/
+
 Usage
 -----
 
@@ -34,6 +47,11 @@ The following example TypoScript is adding the marker relevance to a row of the 
         }
     }
 
+Source
+------
+
+https://github.com/webit-de/typo3-indexedsearch_addmarkers/
+
 License
 -------
 
@@ -50,7 +68,7 @@ for webit! Gesellschaft für neue Medien mbH (http://www.webit.de/)
 Changelog
 ---------
 
-./Changelog.md
+[./Changelog.md](./Changelog.md)
 
 Contribution
 ------------
